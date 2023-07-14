@@ -1,7 +1,9 @@
-version="0.1"
+version="1.3.4.4"
+path = "mod/Infantry-Equipment-Designer-MD"
 tags={
-	"Technologies"
+	"Military"
 	"Gameplay"
 }
-name="Inf_Designer_MD"
-supported_version="1.12.14"
+picture="thumbnail.png"
+name="Infantry Equipment Designer MD"
+supported_version="1.12.*"
